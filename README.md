@@ -2,7 +2,8 @@
 A file listing utility for linux machines. Equivalent to ls -l that outputs list as text, JSON or YAML - written in java.
 
 
-Instructions :
+I<b>nstructions : </b>
+
 It accepts following CLI flags:
 
 --help  <print help>
@@ -10,7 +11,8 @@ It accepts following CLI flags:
 --recursive  (when set, list files recursively.  default is off)
 --output=<json|yaml|text, default is text>
 
-Examples :
+<b>Examples : </b>
+
 Run program to list help options :
 sh filelister --help
 
