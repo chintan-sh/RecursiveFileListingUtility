@@ -1,5 +1,5 @@
-# filelister
-A file listing utility for linux machines. Equivalent to ls -l that outputs list as TEXT, JSON or YAML - written in java (Still under works)
+# Filelister
+A file listing utility for linux. Provides recursive list of files and directories in TEXT, JSON or YAML format. It's written in java (Still under works) for CLI lookup.
 
 
 I<b>nstructions : </b>
