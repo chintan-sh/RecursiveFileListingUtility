@@ -24,3 +24,12 @@ sh filelister --path=/home/ --output=json <br>
 
 Run program to list files recursively and print in TEXT format :<br>
 sh filelister --path=/home/ --recursive
+
+1. Recursive
+![alt tag](http://chintansh.com/img/portfolio/w3p2.png)
+
+2. YAML
+![alt tag](http://chintansh.com/img/portfolio/w3p3.png)
+
+3. JSON
+![alt tag](http://chintansh.com/img/portfolio/w3p4.png)
