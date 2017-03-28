@@ -27,7 +27,7 @@ sh filelister --path=/home/ --recursive
 
 
 ---
-## Recursive
+## Text
 ![alt tag](http://chintansh.com/img/portfolio/w3p2.png)
 
 ---
