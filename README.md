@@ -2,7 +2,7 @@
 A file listing utility for linux. Provides recursive list of files and directories in TEXT, JSON or YAML format. It's written in java (Still under works) for CLI lookup.
 
 
-I<b>nstructions : </b>
+## Instructions : 
 
 It accepts following CLI flags:<br>
 
@@ -11,7 +11,7 @@ It accepts following CLI flags:<br>
 --recursive  (when set, list files recursively.  default is off)<br>
 --output=<json|yaml|text, default is text><br>
 
-<b>Examples : </b>
+## Examples : 
 
 Run program to list help options :<br>
 sh filelister --help<br>
@@ -25,11 +25,15 @@ sh filelister --path=/home/ --output=json <br>
 Run program to list files recursively and print in TEXT format :<br>
 sh filelister --path=/home/ --recursive
 
-1. Recursive
+
+---
+## Recursive
 ![alt tag](http://chintansh.com/img/portfolio/w3p2.png)
 
-2. YAML
+---
+## YAML
 ![alt tag](http://chintansh.com/img/portfolio/w3p3.png)
 
-3. JSON
+---
+## JSON
 ![alt tag](http://chintansh.com/img/portfolio/w3p4.png)
