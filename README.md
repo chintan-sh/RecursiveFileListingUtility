@@ -28,12 +28,12 @@ sh filelister --path=/home/ --recursive
 
 ---
 ## Text
-![alt tag](http://chintansh.com/img/portfolio/w3p2.png)
+![alt tag](http://52.73.80.195//img/portfolio/w3p2.png)
 
 ---
 ## YAML
-![alt tag](http://chintansh.com/img/portfolio/w3p3.png)
+![alt tag](http://52.73.80.195//img/portfolio/w3p3.png)
 
 ---
 ## JSON
-![alt tag](http://chintansh.com/img/portfolio/w3p4.png)
+![alt tag](http://52.73.80.195//img/portfolio/w3p4.png)
